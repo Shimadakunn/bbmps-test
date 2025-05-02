@@ -1,0 +1,260 @@
+[
+  {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/ctpkcqufppieczjesckvy1netmvqqmfk41eofjw1x4wg",
+    "pairAddress": "CTpkCQufppiECZJesCkvy1nETmVQQMFK41EoFjw1x4WG",
+    "labels": ["CLMM"],
+    "baseToken": {
+      "address": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
+      "name": "Bubblemaps",
+      "symbol": "BMT"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0008894",
+    "priceUsd": "0.1340",
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 18
+      },
+      "h6": {
+        "buys": 77,
+        "sells": 123
+      },
+      "h24": {
+        "buys": 1099,
+        "sells": 1293
+      }
+    },
+    "volume": {
+      "h24": 626356.97,
+      "h6": 51428.26,
+      "h1": 2622.59,
+      "m5": 0.03
+    },
+    "priceChange": {
+      "m5": 0.03,
+      "h1": -0.44,
+      "h6": -0.16,
+      "h24": -1.69
+    },
+    "liquidity": {
+      "usd": 944938.48,
+      "base": 3677856,
+      "quote": 2998.3437
+    },
+    "fdv": 117966743,
+    "marketCap": 34341848,
+    "pairCreatedAt": 1741690683000,
+    "info": {
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY.png?key=9bdf2f",
+      "header": "https://dd.dexscreener.com/ds-data/tokens/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY/header.png?key=9bdf2f",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY?timestamp=1746187500000",
+      "websites": [
+        {
+          "label": "Website",
+          "url": "https://bubblemaps.io"
+        },
+        {
+          "label": "Docs",
+          "url": "https://wiki.bubblemaps.io"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/bubblemaps"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/bubblemaps"
+        },
+        {
+          "type": "discord",
+          "url": "https://discord.gg/bubblemaps"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": "solana",
+    "dexId": "meteora",
+    "url": "https://dexscreener.com/solana/g6pyzbnym3qxpnpqvuthsjzuqpuvrzu14evz6wyx6rld",
+    "pairAddress": "G6pyzbnYM3qxpnPqvutHsjZuqPUvRZu14evZ6Wyx6RLD",
+    "labels": ["DLMM"],
+    "baseToken": {
+      "address": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
+      "name": "Bubblemaps",
+      "symbol": "BMT"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0008805",
+    "priceUsd": "0.1327",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 10
+      },
+      "h6": {
+        "buys": 20,
+        "sells": 67
+      },
+      "h24": {
+        "buys": 209,
+        "sells": 413
+      }
+    },
+    "volume": {
+      "h24": 295461.37,
+      "h6": 21355.31,
+      "h1": 3338.7,
+      "m5": 24.74
+    },
+    "priceChange": {
+      "m5": 0.03,
+      "h1": -0.55,
+      "h6": -2.09,
+      "h24": -3.38
+    },
+    "liquidity": {
+      "usd": 307064.67,
+      "base": 1571121,
+      "quote": 654.03048
+    },
+    "fdv": 116780423,
+    "marketCap": 33996493,
+    "pairCreatedAt": 1741691811000,
+    "info": {
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY.png?key=9bdf2f",
+      "header": "https://dd.dexscreener.com/ds-data/tokens/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY/header.png?key=9bdf2f",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY?timestamp=1746187500000",
+      "websites": [
+        {
+          "label": "Website",
+          "url": "https://bubblemaps.io"
+        },
+        {
+          "label": "Docs",
+          "url": "https://wiki.bubblemaps.io"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/bubblemaps"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/bubblemaps"
+        },
+        {
+          "type": "discord",
+          "url": "https://discord.gg/bubblemaps"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": "solana",
+    "dexId": "raydium",
+    "url": "https://dexscreener.com/solana/ek5ixvtix23cqtq4yxduewzc8ejbdv4ndjtspm4jgjrv",
+    "pairAddress": "EK5ixvTiX23cQTq4YxDuEwZc8eJBDV4NdjTsPM4JGJRV",
+    "labels": ["CPMM"],
+    "baseToken": {
+      "address": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY",
+      "name": "Bubblemaps",
+      "symbol": "BMT"
+    },
+    "quoteToken": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceNative": "0.1366",
+    "priceUsd": "0.1366",
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 4
+      },
+      "h24": {
+        "buys": 11,
+        "sells": 19
+      }
+    },
+    "volume": {
+      "h24": 2.68,
+      "h6": 0.2,
+      "h1": 0.03,
+      "m5": 0.03
+    },
+    "priceChange": {
+      "m5": -0.87,
+      "h1": -0.87,
+      "h6": 1.07,
+      "h24": -3.74
+    },
+    "liquidity": {
+      "usd": 13.86,
+      "base": 50.7238,
+      "quote": 6.9309
+    },
+    "fdv": 120244116,
+    "marketCap": 35004825,
+    "pairCreatedAt": 1741703857000,
+    "info": {
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY.png?key=9bdf2f",
+      "header": "https://dd.dexscreener.com/ds-data/tokens/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY/header.png?key=9bdf2f",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY?timestamp=1746187500000",
+      "websites": [
+        {
+          "label": "Website",
+          "url": "https://bubblemaps.io"
+        },
+        {
+          "label": "Docs",
+          "url": "https://wiki.bubblemaps.io"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/bubblemaps"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/bubblemaps"
+        },
+        {
+          "type": "discord",
+          "url": "https://discord.gg/bubblemaps"
+        }
+      ]
+    }
+  }
+]
