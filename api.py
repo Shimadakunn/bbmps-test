@@ -65,6 +65,10 @@ def get_token_pools(chain: Chain, token_address: str) -> TokenPoolResponse:
         number_of_pools=len(pairs)
     )
 
+@app.get("/")
+async def root():
+    return {"message": "Hello World"}
+
 @app.get("/token/{chain}/{token_address}", response_model=TokenPoolResponse)
 async def get_token_pool_info(chain: Chain, token_address: str):
     print(f"Getting token pool info for {chain} {token_address}")
