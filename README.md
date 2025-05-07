@@ -42,18 +42,19 @@ GET /token/solana/FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY
 ### Get Multiple Token Pool Info
 
 ```
-POST /tokens/batch?chain=solana
-Body: ["token_address1", "token_address2"]
+POST /tokens/batch
 ```
 
 Example:
 
 ```bash
-curl -X POST "http://localhost:8000/tokens/batch?chain=solana" \
+curl -X POST "https://bbmps-test.vercel.app/tokens/batch" \
      -H "Content-Type: application/json" \
-     -d '["FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY"]'
+     -d '[{"chain": "solana", "address": "FQgtfugBdpFN7PZ6NdPrZpVLDBrPGxXesi4gVu3vErhY"}]'
 ```
+
+The request body should be a JSON array of objects with `chain` and `address` fields. Supported chains are "solana" and "ethereum".
 
 ## API Documentation
 
-Visit `http://localhost:8000/docs` for interactive API documentation.
+Visit `https://bbmps-test.vercel.app/docs` for interactive API documentation.
